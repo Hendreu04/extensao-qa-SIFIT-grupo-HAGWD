@@ -2,7 +2,7 @@
 
 **Software:** SIFIT - Sistema para Academias
 
-**QA responsável:** Hendreu Satoshi Zampieri Itami (240061)
+**QA responsáveis:** Hendreu Satoshi Zampieri Itami (240061), André Luiz (14623), Gabriel Friedrichsen (14552), Diego Santos (14523), Wallace Gabriel (14542)
 
 **Data:** 23.10.26
 

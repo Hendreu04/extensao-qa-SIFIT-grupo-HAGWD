@@ -1,7 +1,7 @@
 # ✅ **Relatório Final de Execução de Testes - SIFIT**
 
 **Sistema testado:** SIFIT - Sistema para Academias (ambiente de testes)
-**Responsável:** Hendreu Satoshi Zampieri Itami (240061)
+**Equipe responsável:** Hendreu Satoshi Zampieri Itami (240061), André Luiz (14623), Gabriel Friedrichsen (14552), Diego Santos (14523), Wallace Gabriel (14542)
 **Data de execução:** 18/10/2026 a 23/10/2026
 **Ambiente:** Ambiente de testes disponibilizado pelo professor
 

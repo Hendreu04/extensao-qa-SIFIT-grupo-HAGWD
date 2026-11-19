@@ -6,6 +6,16 @@ Repositório do projeto de extensão da disciplina de Qualidade de Software, com
 - Organização de casos de teste
 - Melhoria contínua na análise e cobertura de testes
 
+## 👥 Integrantes
+
+| Nome | RA |
+|---|---|
+| Hendreu Satoshi Zampieri Itami | 240061 |
+| André Luiz | 14623 |
+| Gabriel Friedrichsen | 14552 |
+| Diego Santos | 14523 |
+| Wallace Gabriel | 14542 |
+
 ## 🎯 Objetivo
 
 Este projeto foi criado com o objetivo de:
