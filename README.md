@@ -11,7 +11,7 @@ Repositório do projeto de extensão da disciplina de Qualidade de Software, com
 | Nome | RA |
 |---|---|
 | Hendreu Satoshi Zampieri Itami | 240061 |
-| André Luiz | 14623 |
+| André Luiz de Oliveira Zampieri | 14623 |
 | Gabriel Friedrichsen | 14552 |
 | Diego Santos | 14523 |
 | Wallace Gabriel | 14542 |
